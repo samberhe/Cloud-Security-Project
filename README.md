@@ -55,7 +55,7 @@ A summary of the access policies in place can be found in the table below.
 | Name     | Publicly Accessible | Allowed IP Addresses |
 |----------|---------------------|----------------------|
 | Jump Box | Yes/No              | My Personal IP    |
-| Web-1      NO                  | 10.0.0.14                     |
+| Web-1                     | NO                     | 10.0.0.14
 | Web-2         |  NO                   |  10.0.0.14                    |
 | Elk-VM         |  NO                   |  10.0.0.14                    |
 
